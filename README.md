@@ -1,1 +1,1 @@
-# delivery-credit-moneytype
+# 納品用コード
